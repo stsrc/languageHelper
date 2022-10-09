@@ -1,0 +1,66 @@
+{
+	"verbs": {
+		"wash yourself": {
+			"infinitiv": "mýt se",
+		        "já" : "myju se", 
+			"ty" : "myješ se",
+		        "on/ona/ono" : "myje se", 
+			"my" : "myjeme se", 
+			"vy" : "myjete se", 
+			"oni/ony/ona" : "myjou se" 
+		},
+		"dress up": { 
+			"infinitiv": "oblékat se", 
+			"já" : "oblékám se", 
+			"ty" : "oblékáš se", 
+			"on/ona/ono" : "obléká se", 
+			"my" : "oblékáme se", 
+			"vy" : "oblékáte se", 
+			"oni/ony/ona" : "oblékají se" 
+		},
+		"undress": { 
+			"infinitiv": "svlékat se", 
+			"já" : "svlékám se", 
+			"ty" : "svlékáš se", 
+			"on/ona/ono" : "svléká se", 
+			"my" : "svlékáme se", 
+			"vy" : "svlékáte se", 
+			"oni/ony/ona" : "svlékají se" 
+		},
+		"watch": { 
+			"infinitiv": "dívat se", 
+			"já" : "dívám se", 
+			"ty" : "díváš se", 
+			"on/ona/ono" : "dívá se", 
+			"my" : "díváme se",
+		       	"vy" : "díváte se", 
+			"oni/ony/ona" : "dívají se" 
+		},
+		"comb": {
+			"infinitiv": "česat se", 
+			"já" : "češe se", 
+			"ty" : "češeš se", 
+			"on/ona/ono" : "češe se",  
+			"my" : "češeme se", 
+			"vy" : "češete se", 
+			"oni/ony/ona" : "češou se" 
+		},
+		"wash yourself": { 
+			"infinitiv": "koupat se", 
+			"já" : "koupu se", 
+			"ty" : "koupeš se", 
+			"on/ona/ono" : "koupe se", 
+			"my" : "koupeme se", 
+			"vy" : "koupete se", 
+			"oni/ony/ona" : "koupou se" 
+		},
+		"take shower": { 
+			"infinitiv": "sprchovat se", 
+			"já" : "sprchuju se", 
+			"ty" : "sprchuješ se", 
+			"on/ona/ono" : "sprchuje se", 
+			"my" : "sprchujeme se", 
+			"vy" : "sprchujete se", 
+			"oni/ony/ona" : "sprchujou se" }
+	}
+}
