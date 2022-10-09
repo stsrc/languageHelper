@@ -1,11 +1,23 @@
 {
 	"verbs": {
-		"wash yourself": "mýt se, myju se, myješ se, myje se, myjeme se, myjete se, myjou se",
-		"dress up": "oblékat se, oblékám se, oblékáš se, obléká se, oblékáme se, oblékáte se, oblékají se",
-		"undress": "svlékat se, svlékám se, svlékáš se, svléká se, svlékáme se, svlékáte se, svlékají se",
-		"watch": "dívat se, dívám se, díváš se, dívá se, díváme se, díváte se, dívají se",
-		"comb": "česat se, češe se, češeš se, češe se,  češeme se, češete se, češou se",
-		"wash yourself": "koupat se, koupu se, koupeš se, koupe se, koupeme se,koupete se, koupou se",
-		"take shower": "sprchovat se, sprchuju se, sprchuješ se, sprchuje se, sprchujeme se, sprchujete se, sprchujou se"
+		"to wash yourself": "mýt se, myju se, myješ se, myje se, myjeme se, myjete se, myjou se",
+		"to dress up": "oblékat se, oblékám se, oblékáš se, obléká se, oblékáme se, oblékáte se, oblékají se",
+		"to undress": "svlékat se, svlékám se, svlékáš se, svléká se, svlékáme se, svlékáte se, svlékají se",
+		"to watch": "dívat se, dívám se, díváš se, dívá se, díváme se, díváte se, dívají se",
+		"to comb": "česat se, češe se, češeš se, češe se,  češeme se, češete se, češou se",
+		"to wash yourself": "koupat se, koupu se, koupeš se, koupe se, koupeme se, koupete se, koupou se",
+		"to take shower": "sprchovat se, sprchuju se, sprchuješ se, sprchuje se, sprchujeme se, sprchujete se, sprchujou se",
+		"to wash (clothes)": "prát, peru, pereš, pere, pereme, perete, perou",
+		"to dust/hoover": "luxovat, luxuju, luxuješ, luxuje, luxujeme, luxujete luxujou",
+		"to cook": "vařit, vařím, vaříš, vaří, vaříme, vaříte, vaří",
+		"to clean": "čistit, čistím, čistíš, čistí, čistíme, čistíte, čistí",
+		"to lie": "ležet, ležím, ležíš, leží, ležíme, ležíte, leží",
+		"to sit": "sedět, sedím, sedíš, sedí, sedíme, sedíte, sedí",
+		"to sleep": "spát, spím, spíš, spí, spíme, spíte, spí",
+		"to hang": "viset, visím, vísíš, visí, visíme, visíte, visí",
+		"to iron": "žehlit, žehlím, žehlíš, žehlí, žehlíme, žehlíte, žehlí",
+		"to live": "bydlet, bydlím, bydlíš, bydlí, bydlíme, bydlíte, bydlí",
+		"to clean": "uklízet, uklízím, uklízíš, uklízí, uklízíme, uklízíte, uklízí",
+		"to eat supper": "večeřet, večeřím, večeříš, večeří, večeříme, večeříte, večeří"
 	}
 }
