@@ -10,8 +10,12 @@ def learn_czech_verbs(data):
     while(1):
         english_verb, czech_verbs = (random.choice(list(verbs.items())))
         key = random.randint(0, len(keys) - 1)
-        input(english_verb + ", " + keys[key] + ": ")
         splited_czech_verbs = czech_verbs.split(', ')
+        print_string = english_verb + ", " + keys[key] + ": "
+        input_char = input(print_string)
+        if (input_char == 'h'):
+            print(splited_czech_verbs[0])
+            input(print_string)
         print(splited_czech_verbs[key])
 
 def learn_czech(filename):
