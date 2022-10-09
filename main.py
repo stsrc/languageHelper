@@ -5,13 +5,14 @@ import glob
 import random 
 
 def learn_czech_verbs(data):
-    keys = {"infinitiv", "já", "ty", "on/ona/ono", "my", "vy", "oni/ony/ona"} 
+    keys = ["infinitiv", "já", "ty", "on/ona/ono", "my", "vy", "oni/ony/ona"] 
     verbs = data['verbs']
     while(1):
         english_verb, czech_verbs = (random.choice(list(verbs.items())))
-        key = random.choice(list(keys))
-        input(english_verb + ", " + key + ": ")
-        print(czech_verbs[key])
+        key = random.randint(0, len(keys) - 1)
+        input(english_verb + ", " + keys[key] + ": ")
+        splited_czech_verbs = czech_verbs.split(', ')
+        print(splited_czech_verbs[key])
 
 def learn_czech(filename):
     file_object = open(filename)
