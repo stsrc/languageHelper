@@ -5,7 +5,7 @@
 		"to undress": "svlékat se, svlékám se, svlékáš se, svléká se, svlékáme se, svlékáte se, svlékají se",
 		"to watch": "dívat se, dívám se, díváš se, dívá se, díváme se, díváte se, dívají se",
 		"to comb": "česat se, češe se, češeš se, češe se,  češeme se, češete se, češou se",
-		"to wash yourself": "koupat se, koupu se, koupeš se, koupe se, koupeme se, koupete se, koupou se",
+		"to wash yourself (in bath)": "koupat se, koupu se, koupeš se, koupe se, koupeme se, koupete se, koupou se",
 		"to take shower": "sprchovat se, sprchuju se, sprchuješ se, sprchuje se, sprchujeme se, sprchujete se, sprchujou se",
 		"to wash (clothes)": "prát, peru, pereš, pere, pereme, perete, perou",
 		"to dust/hoover": "luxovat, luxuju, luxuješ, luxuje, luxujeme, luxujete luxujou",
@@ -18,6 +18,18 @@
 		"to iron": "žehlit, žehlím, žehlíš, žehlí, žehlíme, žehlíte, žehlí",
 		"to live": "bydlet, bydlím, bydlíš, bydlí, bydlíme, bydlíte, bydlí",
 		"to clean": "uklízet, uklízím, uklízíš, uklízí, uklízíme, uklízíte, uklízí",
-		"to eat supper": "večeřet, večeřím, večeříš, večeří, večeříme, večeříte, večeří"
+		"to eat supper": "večeřet, večeřím, večeříš, večeří, večeříme, večeříte, večeří",
+		"to try (imperfect)": "zkoušet, zkouším, zkoušíš, zkouší, zkoušíme, zkoušíte, zkouší/zkoušej",
+		"to try (perfect)": "zkusit, zkusím, zkusíš, zkusí, zkusíme, zkusíte, zkusí",
+		"to show": "ukázat, ukážu, ukážeš, ukáže, ukážeme, ukážete, ukážou",
+		"to view (see something fast)": "prohlédnout, prohlédnu, prohlédneš, prohlédne, prohlédneme, prohlédnete, prohlédnou",
+		"to lose weight": "zhubnout, zhubnu, zhubneš, zhubne, zhubneme, zhubnete, zhubnou",
+		"can": "moct, mohu/(hovorově) můžu, můžeš, může , můžeme, můžete, mohou/(hovorově) můžou",
+		"to want": "chtít, chci, chceš, chce, chceme, chcete, chtějí",
+		"must": "muset, musím, musíš, musí, musíme, musíte, musejí/musí",
+		"may": "smět, smím, smíš, smí, smíme, smíte, smějí/smí",
+		"know": "umět, umím, umíš, umí, umíme, umíte, umějí/umí",
+		"eat": "jíst, jím, jíš, jí, jíme, jíte, jedí",
+		"hold": "držet, držím, držíš, drží, držíme, držíte, drží"
 	}
 }
