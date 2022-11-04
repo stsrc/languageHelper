@@ -31,6 +31,8 @@
 		"know": "umět, umím, umíš, umí, umíme, umíte, umějí/umí",
 		"eat": "jíst, jím, jíš, jí, jíme, jíte, jedí",
 		"hold": "držet, držím, držíš, drží, držíme, držíte, drží",
-		"to have": "mít, mám, máš, má, máme, máte, mají"
+		"to have": "mít, mám, máš, má, máme, máte, mají",
+		"to go": "jít, jdu, jdeš, jde, jdeme, jdete, jdou",
+		"to go (future)": "jít, půjdu, půjdeš, půjde, půjdeme, půjdete, půjdou"
 	}
 }
