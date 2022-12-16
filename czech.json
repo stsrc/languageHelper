@@ -1,6 +1,6 @@
 {
 	"verbs": {
-		"to wash yourself": "mýt se, myju se, myješ se, myje se, myjeme se, myjete se, myjou se",
+		"to wash yourself (i.e. face)": "mýt se, myju se, myješ se, myje se, myjeme se, myjete se, myjou se",
 		"to dress up": "oblékat se, oblékám se, oblékáš se, obléká se, oblékáme se, oblékáte se, oblékají se",
 		"to undress": "svlékat se, svlékám se, svlékáš se, svléká se, svlékáme se, svlékáte se, svlékají se",
 		"to watch": "dívat se, dívám se, díváš se, dívá se, díváme se, díváte se, dívají se",
@@ -36,6 +36,7 @@
 		"to go (future)": "jít, půjdu, půjdeš, půjde, půjdeme, půjdete, půjdou",
 		"to read": "číst, čtu, čteš, čte, čteme, čtete, čtou",
 		"to ride": "jet, jedu, jedeš, jede, jedeme, jedete, jedou",
-		"to ride (future)": "jet, pojedu, pojedeš, pojede, pojedeme, pojedete, pojedou"
+		"to ride (future)": "jet, pojedu, pojedeš, pojede, pojedeme, pojedete, pojedou",
+		"to write": "psát, píši/píšu, píšeš, píše, píšeme, píšete, píší/píšou"
 	}
 }
