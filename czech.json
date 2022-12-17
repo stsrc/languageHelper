@@ -28,9 +28,9 @@
 		"to want": "chtít, chci, chceš, chce, chceme, chcete, chtějí",
 		"must": "muset, musím, musíš, musí, musíme, musíte, musejí/musí",
 		"may": "smět, smím, smíš, smí, smíme, smíte, smějí/smí",
-		"know": "umět, umím, umíš, umí, umíme, umíte, umějí/umí",
-		"eat": "jíst, jím, jíš, jí, jíme, jíte, jedí",
-		"hold": "držet, držím, držíš, drží, držíme, držíte, drží",
+		"to know": "umět, umím, umíš, umí, umíme, umíte, umějí/umí",
+		"to eat": "jíst, jím, jíš, jí, jíme, jíte, jedí",
+		"to hold": "držet, držím, držíš, drží, držíme, držíte, drží",
 		"to have": "mít, mám, máš, má, máme, máte, mají",
 		"to go": "jít, jdu, jdeš, jde, jdeme, jdete, jdou",
 		"to go (future)": "jít, půjdu, půjdeš, půjde, půjdeme, půjdete, půjdou",
@@ -38,6 +38,7 @@
 		"to ride": "jet, jedu, jedeš, jede, jedeme, jedete, jedou",
 		"to ride (future)": "jet, pojedu, pojedeš, pojede, pojedeme, pojedete, pojedou",
 		"to write": "psát, píši/píšu, píšeš, píše, píšeme, píšete, píší/píšou",
-		"to stand": "stát, stojím, stojíš, stojí, stojíme, stojíte, stojí"
+		"to stand": "stát, stojím, stojíš, stojí, stojíme, stojíte, stojí",
+		"to know (somebody)": "znát, znám, znáš, zná, známe, znáte, znají"
 	}
 }
