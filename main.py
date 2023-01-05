@@ -17,6 +17,8 @@ def learn_czech_verbs(data):
             print(splited_czech_verbs[0])
             input(print_string)
         print(splited_czech_verbs[key])
+        #TODO: make navigation like after printing correct, ask if algo should
+        #TODO: ask for next or print all
 
 def learn_czech(filename):
     file_object = open(filename)
