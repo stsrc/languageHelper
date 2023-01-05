@@ -16,9 +16,12 @@ def learn_czech_verbs(data):
         if (input_char == 'h'):
             print(splited_czech_verbs[0])
             input(print_string)
-        print(splited_czech_verbs[key])
-        #TODO: make navigation like after printing correct, ask if algo should
-        #TODO: ask for next or print all
+        print('\n\033[92m' + splited_czech_verbs[key] + '\033[0m')
+        input_char = input("\nShow all - a; Next - any: ")
+        if (input_char == 'a'):
+            print('\n')
+            print(splited_czech_verbs)
+        print()
 
 def learn_czech(filename):
     file_object = open(filename)
