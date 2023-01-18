@@ -64,13 +64,17 @@
 		"to cut": "sekat, sekám, sekáš, seká, sekáme, sekáte, sekají",
 		"to cough": "kašlat, kašlu, kašleš, kašle, kašleme, kašlete, kašlou",
 		"to blaze": "planout, planu, planeš, plane, planeme, planete, planou",
-		"to use": "použít, použiji, použiješ, použije, použijeme, použijete, použijí",
+		"to use (perfect)": "použít, použiji, použiješ, použije, použijeme, použijete, použijí",
 		"to understand": "chápat, chápu, chápeš, chápe, chápeme, chápete, chápou",
 		"to answer": "odpovídat, odpovídám, odpovídáš, odpovídá, odpovídáme, odpovídáte, odpovídají",
 		"to store, to save, to deposit, to charge": "uložit, uložím, uložíš, uloží, uložíme, uložíte, uloží",
 		"to produce": "vyrábět, vyrábím, vyrábíš, vyrábí, vyrábíme, vyrábíte, vyrábí/vyrábějí",
 		"to accept": "přijmout, přijmu, přijmeš, přijme, přijmeme, přijmete, přijmou",
 		"to think": "myslet, myslím, myslíš, myslí, myslíme, myslíte, myslí/myslejí",
-		"to help": "pomáhat, pomáhám, pomáháš, pomáhá, pomáháme, pomáháte, pomáhají"
+		"to help": "pomáhat, pomáhám, pomáháš, pomáhá, pomáháme, pomáháte, pomáhají",
+		"to use (imperfect)": "užívat, užívám, užíváš, užívá, užíváme, užíváte, užívají",
+		"take something down": "sundat, sundám, sundáš, sundá, sundáme, sundáte, sundají",
+		"to digest/spend": "trávit, trávím, trávíš, tráví, trávíme, trávíte, tráví",
+		"to fly": "létat, létám, létáš, létá, létáme, létáte, létají"
 	}
 }
