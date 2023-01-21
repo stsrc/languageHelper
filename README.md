@@ -1,3 +1,3 @@
 # language_helper
 
-This tool was written to help memorize foreign languages.
+Tool written to help memorize foreign languages.
