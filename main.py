@@ -83,20 +83,36 @@ def learn_czech(filename):
                 learn_czech_difficult_verbs(parsed_json, file_object)
                 break
 
+def learn_english_words(data, category):
+    words = data[category]
+    while(1):
+        answer, question = (random.choice(list(words.items())))
+        print_string = question + ": "
+        input_char = input(print_string)
+        print('\n\033[92m' + answer + '\033[0m\n')
 
 def learn_english(filename):
-    print(filename)
+    file_object = open(filename, 'r+')
+    parsed_json = json.load(file_object)
+    print("\nWhat would you like to learn?\n")
+    for i in parsed_json:
+        print(i + "? y/n:")
+        choice = input().lower()
+        if (choice == 'y'):
+            learn_english_words(parsed_json, i)
 
 def main():
     print("Which language would you like to learn?")
     files = glob.glob("*.json")
-    print(files[0] + "? y/n: " )
+    print(files[0] + "? y/n: ")
     choice = input().lower()
     if (choice == 'y'):
         learn_czech(files[0])
     else:
-        learn_english(files[1])
-
+        print(files[1] + "? y/n: ")
+        choice = input().lower()
+        if (choice == 'y'):
+            learn_english(files[1])
 
 if __name__ == "__main__":
     main()
