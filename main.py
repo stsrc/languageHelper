@@ -90,9 +90,8 @@ def learn_english(filename):
 def main():
     print("Which language would you like to learn?")
     files = glob.glob("*.json")
-    print(files[0] + "? y/n: " ) # TODO: print only filename
-#    choice = input().lower()
-    choice = 'y'
+    print(files[0] + "? y/n: " )
+    choice = input().lower()
     if (choice == 'y'):
         learn_czech(files[0])
     else:
