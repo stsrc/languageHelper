@@ -36,8 +36,8 @@
                 "to go": "jít, jdu, jdeš, jde, jdeme, jdete, jdou",
                 "to go (future)": "jít, půjdu, půjdeš, půjde, půjdeme, půjdete, půjdou",
                 "to read": "číst, čtu, čteš, čte, čteme, čtete, čtou",
-                "to ride": "jet, jedu, jedeš, jede, jedeme, jedete, jedou",
-                "to ride (future)": "jet, pojedu, pojedeš, pojede, pojedeme, pojedete, pojedou",
+                "to ride (once, somewhere)": "jet, jedu, jedeš, jede, jedeme, jedete, jedou",
+                "to ride (future, once, somewhere)": "jet, pojedu, pojedeš, pojede, pojedeme, pojedete, pojedou",
                 "to write": "psát, píši/píšu, píšeš, píše, píšeme, píšete, píší/píšou",
                 "to stand": "stát, stojím, stojíš, stojí, stojíme, stojíte, stojí",
                 "to know (somebody)": "znát, znám, znáš, zná, známe, znáte, znají",
@@ -72,11 +72,18 @@
                 "to use (imperfect)": "užívat, užívám, užíváš, užívá, užíváme, užíváte, užívají",
                 "take something down": "sundat, sundám, sundáš, sundá, sundáme, sundáte, sundají",
                 "to digest/spend": "trávit, trávím, trávíš, tráví, trávíme, trávíte, tráví",
-                "to fly": "létat, létám, létáš, létá, létáme, létáte, létají",
+                "to fly (frequently)": "létat, létám, létáš, létá, létáme, létáte, létají",
+                "to fly (once, somewhere)": "letět, letím, letíš, letí, letíme, letíte, letí",
+                "to fly (future, once, somewhere)": "letět, poletím, poletíš, poletí, poletíme, poletíte, poletí",
+                "to walk": "chodit, chodím, chodíš, chodí, chodíme, chodíte, chodí",
+                "to walk (future)": "chodit, budu chodit, budeš chodit, bude chodit, budeme chodit, budete chodit, budou chodit",
                 "to consider": "považovat, považuji, považuješ, považuje, považujeme, považujete, považují",
                 "to complain": "stěžovat si, stěžuji si, stěžuješ si, stěžuje si, stěžujeme si, stěžujete si, stěžují si",
                 "to offer": "nabízet, nabízím, nabízíš, nabízí, nabízíme, nabízíte, nabízí/nabízejí",
-                "to allow, to enable": "dovolit, dovolím, dovolíš, dovolí, dovolíme, dovolíte, dovolí"
+                "to allow, to enable": "dovolit, dovolím, dovolíš, dovolí, dovolíme, dovolíte, dovolí",
+                "to ride (frequently, many times)": "jezdit, jezdím, jezdíš, jezdí, jezdíme, jezdíte, jezdí",
+                "to fly (frequently, many times)": "létat, létám, létáš, létá, létáme, létáte, létají",
+                "to fly (future, frequently, many times)": "létat, budu létat, budeš létat, bude létat, budeme létat, budete létat, budou létat"
         },
         "difficult verbs": [
                 "to know",
@@ -86,8 +93,16 @@
                 "to carry out",
                 "to lead",
                 "to require",
-		"to accept",
-		"to produce",
-		"to store, to save, to deposit, to charge"
-        ]
+                "to accept",
+                "to produce",
+                "to store, to save, to deposit, to charge"
+        ],
+        "past verbs": {
+                "to go": "šel, šla, šlo, šli, šly, šla",
+                "to ride": "jel, jela, jelo, jeli, jely, jela",
+                "to fly (once)": "letěl, letěla, letělo, letěli, letěly, letěla",
+                "to walk": "chodil, chodila, chodilo, chodili, chodily, chodila",
+                "to drive": "jezdil, jezdila, jezdilo, jezdili, jezdily, jezdila",
+                "to fly (many times)": "létal, létala, létalo, létali, létaly, létala"
+        }
 }
