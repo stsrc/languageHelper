@@ -6,6 +6,9 @@ import random
 
 def mark_as_hard(data, english_verb, file_object):
     difficult = data['difficult verbs']
+    if english_verb in difficult:
+        return
+
     difficult.append(english_verb)
     file_object.truncate(0)
     file_object.seek(0)
@@ -60,9 +63,9 @@ def learn_czech_verbs(data, file_object):
             print(splited_czech_verbs[0])
             input(print_string)
         print('\n\033[92m' + splited_czech_verbs[key] + '\033[0m')
-        input_char = input("\nShow all - a; Mark as difficult - b; Next - any key: ")
-        if (input_char == 'a'):
-            print('\n')
+        input_char = input("\nShow all - 'a'/'h'; Mark as difficult - 'b'; Next - any key: ")
+        if (input_char == 'a' or input_char == 'h'):
+            print("")
             print(splited_czech_verbs)
         elif (input_char == 'b'):
             mark_as_hard(data, english_verb, file_object)
