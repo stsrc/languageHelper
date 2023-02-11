@@ -23,7 +23,7 @@
                 "to try (imperfect)": "zkoušet, zkouším, zkoušíš, zkouší, zkoušíme, zkoušíte, zkouší/zkoušej",
                 "to try (perfect)": "zkusit, zkusím, zkusíš, zkusí, zkusíme, zkusíte, zkusí",
                 "to show": "ukázat, ukážu, ukážeš, ukáže, ukážeme, ukážete, ukážou",
-                "to view (see something fast)": "prohlédnout, prohlédnu, prohlédneš, prohlédne, prohlédneme, prohlédnete, prohlédnou",
+                "to view (see something fast), view/sightsee": "prohlédnout, prohlédnu, prohlédneš, prohlédne, prohlédneme, prohlédnete, prohlédnou",
                 "to lose weight": "zhubnout, zhubnu, zhubneš, zhubne, zhubneme, zhubnete, zhubnou",
                 "can": "moct, mohu/(hovorově) můžu, můžeš, může, můžeme, můžete, mohou/(hovorově) můžou",
                 "to want": "chtít, chci, chceš, chce, chceme, chcete, chtějí",
@@ -83,7 +83,20 @@
                 "to allow, to enable": "dovolit, dovolím, dovolíš, dovolí, dovolíme, dovolíte, dovolí",
                 "to ride (frequently, many times)": "jezdit, jezdím, jezdíš, jezdí, jezdíme, jezdíte, jezdí",
                 "to fly (frequently, many times)": "létat, létám, létáš, létá, létáme, létáte, létají",
-                "to fly (future, frequently, many times)": "létat, budu létat, budeš létat, bude létat, budeme létat, budete létat, budou létat"
+                "to fly (future, frequently, many times)": "létat, budu létat, budeš létat, bude létat, budeme létat, budete létat, budou létat",
+                "to get on (imperfect)": "nastupovat, nastupuji / nastupuju, nastupuješ, nastupuje, nastupujeme, nastupujete, nastupují / nastupujou",
+                "to get on (perfect)": "nastoupit, nastoupím, nastoupíš, nastoupí, nastoupíme, nastoupíte, nastoupí",
+                "to appear, secede, get of, protrude (imperfect)": "vystupovat, vystupuji, vystupuješ, vystupuje, vystupujeme, vystupujete, vystupují",
+                "to appear, secede, get of, protrude (perfect)": "vystoupit, vystoupím, vystoupíš, vystoupí, vystoupíme, vystoupíte, vystoupí",
+                "to change (perfect)": "přestoupit, přestoupím, přestoupíš, přestoupí, přestoupíme, přestoupíte, přestoupí",
+                "to swim (perfect)": "plout, pluji, pluješ, pluje, plujeme, plujete, plují",
+                "to visit": "navštívit, navštívím, navštívíš, navštíví, navštívíme, navštívíte, navštíví",
+                "view, watch (imperfect)": "prohlížet, prohlížím, prohlížíš, prohlíží, prohlížíme, prohlížíte, prohlížejí / prohlíž",
+                "to search": "hledat, hledám, hledáš, hledá, hledáme, hledáte, hledají",
+                "to turn": "zahnout, zahnu, zahneš, zahne, zahneme, zahnete, zahnou",
+                "to return (perfect)": "vrátit se, vrátím se, vrátíš se, vrátí se, vrátíme se, vrátíte se, vrátí se",
+                "to dive (imperfect)": "potápět se, potápím se, potápíš se, potápí se, potápíme se, potápíte se, potápí se",
+                "to dream/to seem": "zdát se, zdám se, zdáš se, zdá se, zdáme se, zdáte se, zdají se"
         },
         "difficult verbs": [
                 "to know",
@@ -95,12 +108,14 @@
                 "to require",
                 "to accept",
                 "to produce",
-                "to store, to save, to deposit, to charge",
                 "to allow, to enable",
                 "to blaze",
                 "to go (future)",
                 "to use (perfect)",
-                "to cough"
+                "to cough",
+                "take something down",
+                "to offer",
+                "to cut"
         ],
         "past verbs": {
                 "to go": "šel, šla, šlo, šli, šly, šla",
