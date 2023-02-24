@@ -67,7 +67,8 @@ def learn_czech_verbs(data, file_object):
         if (input_char == 'a' or input_char == 'h'):
             print("")
             print(splited_czech_verbs)
-        elif (input_char == 'b'):
+            input_char = input("\nMark as difficult - 'b'; Next - any key: ")
+        if (input_char == 'b'):
             mark_as_hard(data, english_verb, file_object)
         print()
 
