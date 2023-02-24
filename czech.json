@@ -99,8 +99,12 @@
                 "to dream/to seem": "zdát se, zdám se, zdáš se, zdá se, zdáme se, zdáte se, zdají se",
                 "to fulfill/accopmlish": "splnit, splním, splníš, splní, splníme, splníte, splní",
                 "to walk": "procházet, procházím, procházíš, prochází, procházíme, procházíte, prochází/procházejí",
-		"to solve": "řešit, řeším, řešíš, řeší, řešíme, řešíte, řeší",
-		"to bring": "přinést, přinesu, přineseš, přinese, přineseme, přinesete, přinesou"
+                "to solve": "řešit, řeším, řešíš, řeší, řešíme, řešíte, řeší",
+                "to bring": "přinést, přinesu, přineseš, přinese, přineseme, přinesete, přinesou",
+		"to get": "dostat, dostanu, dostaneš, dostane, dostaneme, dostanete, dostanou",
+		"to park": "parkovat, parkuji, parkuješ, parkuje, parkujeme, parkujete, parkují",
+		"to send": "posílat, posílám, posíláš, posílá, posíláme, posíláte, posílají",
+		"to wait": "počkat, počkám, počkáš, počká, počkáme, počkáte, počkají"
         },
         "difficult verbs": [
                 "to know",
@@ -146,7 +150,11 @@
                 "to appear, secede, get of, protrude (imperfect)",
                 "to walk (frequently, many times)",
                 "take something down",
-                "to help"
+                "to help",
+                "to solve",
+                "to get on (perfect)",
+                "to visit",
+                "to blaze"
         ],
         "past verbs": {
                 "to go": "šel, šla, šlo, šli, šly, šla",
