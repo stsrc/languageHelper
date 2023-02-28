@@ -101,10 +101,12 @@
                 "to walk": "procházet, procházím, procházíš, prochází, procházíme, procházíte, prochází/procházejí",
                 "to solve": "řešit, řeším, řešíš, řeší, řešíme, řešíte, řeší",
                 "to bring": "přinést, přinesu, přineseš, přinese, přineseme, přinesete, přinesou",
-		"to get": "dostat, dostanu, dostaneš, dostane, dostaneme, dostanete, dostanou",
-		"to park": "parkovat, parkuji, parkuješ, parkuje, parkujeme, parkujete, parkují",
-		"to send": "posílat, posílám, posíláš, posílá, posíláme, posíláte, posílají",
-		"to wait": "počkat, počkám, počkáš, počká, počkáme, počkáte, počkají"
+                "to get": "dostat, dostanu, dostaneš, dostane, dostaneme, dostanete, dostanou",
+                "to park": "parkovat, parkuji, parkuješ, parkuje, parkujeme, parkujete, parkují",
+                "to send": "posílat, posílám, posíláš, posílá, posíláme, posíláte, posílají",
+                "to wait": "počkat, počkám, počkáš, počká, počkáme, počkáte, počkají",
+                "be situated": "nacházet se, nacházím se, nacházíš se, nachází se, nacházíme se, nacházíte se, nachází/nacházejí se",
+                "to pass/devolve": "připadnout, připadnu, připadneš, připadne, připadneme, připadnete, připadnou"
         },
         "difficult verbs": [
                 "to know",
@@ -117,7 +119,6 @@
                 "to accept",
                 "to allow, to enable",
                 "to use (perfect)",
-                "to cough",
                 "to cut",
                 "to fulfill/accopmlish",
                 "to agree",
@@ -138,7 +139,6 @@
                 "to get on (imperfect)",
                 "to use (imperfect)",
                 "to try (perfect)",
-                "to fly (once, somewhere)",
                 "to try (imperfect)",
                 "to stand",
                 "to devote (yourself)",
@@ -154,7 +154,10 @@
                 "to solve",
                 "to get on (perfect)",
                 "to visit",
-                "to blaze"
+                "to blaze",
+                "be situated",
+                "to change (perfect)",
+                "to read"
         ],
         "past verbs": {
                 "to go": "šel, šla, šlo, šli, šly, šla",
