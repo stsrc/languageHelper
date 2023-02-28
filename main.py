@@ -17,7 +17,7 @@ class HiddenPrints:
         sys.stdout.close()
         sys.stdout = self._original_stdout
 
-def mark_as_hard(data, english_verb, file_object, data_category):
+def mark_as_difficult(data, english_verb, file_object, data_category):
     difficult = data[data_category]
     if english_verb in difficult:
         return
@@ -27,7 +27,7 @@ def mark_as_hard(data, english_verb, file_object, data_category):
     file_object.seek(0)
     json.dump(data, file_object, indent = 8, ensure_ascii = False)
 
-def remove_from_hard(data, english_verb, file_object, data_category):
+def remove_from_difficult(data, english_verb, file_object, data_category):
     difficult = data[data_category]
     for idx, obj in enumerate(difficult):
         if obj == english_verb:
@@ -60,7 +60,7 @@ def learn_czech_difficult_verbs(data, file_object):
             print('\n')
             print(splited_czech_verbs)
         elif (input_char == 'b'):
-            remove_from_hard(data, english_verb, file_object, 'difficult verbs')
+            remove_from_difficult(data, english_verb, file_object, 'difficult verbs')
         print()
         
 def learn_czech_verbs(data, file_object):
@@ -82,7 +82,7 @@ def learn_czech_verbs(data, file_object):
             print(splited_czech_verbs)
             input_char = input("\nMark as difficult - 'b'; Next - any key: ")
         if (input_char == 'b'):
-            mark_as_hard(data, english_verb, file_object, 'difficult verbs')
+            mark_as_difficult(data, english_verb, file_object, 'difficult verbs')
         print()
 
 def learn_czech(filename):
@@ -108,7 +108,7 @@ def learn_english_words(data, category, file_object):
         print('\n\033[92m' + answer + '\033[0m\n')
         input_char = input("Mark as difficult - 'b'; Next - any key: ")
         if (input_char == 'b'):
-            mark_as_hard(data, answer, file_object, 'difficult words')
+            mark_as_difficult(data, answer, file_object, 'difficult words')
 
 def learn_english_difficult_words(data, category, file_object):
     words = data['words and phrases to english']
@@ -125,7 +125,7 @@ def learn_english_difficult_words(data, category, file_object):
         print('\n\033[92m' + difficult_word + '\033[0m\n')
         input_char = input("Unmark from difficult - 'b'; Next - any key: ")
         if (input_char == 'b'):
-            remove_from_hard(data, difficult_word, file_object, 'difficult words')
+            remove_from_difficult(data, difficult_word, file_object, 'difficult words')
 
 def learn_english_words_sr():
     r = sr.Recognizer()
