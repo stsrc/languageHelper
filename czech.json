@@ -89,6 +89,7 @@
                 "to appear, secede, get of, protrude (imperfect)": "vystupovat, vystupuji, vystupuješ, vystupuje, vystupujeme, vystupujete, vystupují",
                 "to appear, secede, get of, protrude (perfect)": "vystoupit, vystoupím, vystoupíš, vystoupí, vystoupíme, vystoupíte, vystoupí",
                 "to change (perfect)": "přestoupit, přestoupím, přestoupíš, přestoupí, přestoupíme, přestoupíte, přestoupí",
+                "to swim (imperfect)": "plavat, plavu, plaveš, plave, plaveme, plavete, plavou",
                 "to swim (perfect)": "plout, pluji, pluješ, pluje, plujeme, plujete, plují",
                 "to visit": "navštívit, navštívím, navštívíš, navštíví, navštívíme, navštívíte, navštíví",
                 "view, watch (imperfect)": "prohlížet, prohlížím, prohlížíš, prohlíží, prohlížíme, prohlížíte, prohlížejí / prohlíž",
@@ -106,7 +107,23 @@
                 "to send": "posílat, posílám, posíláš, posílá, posíláme, posíláte, posílají",
                 "to wait": "počkat, počkám, počkáš, počká, počkáme, počkáte, počkají",
                 "be situated": "nacházet se, nacházím se, nacházíš se, nachází se, nacházíme se, nacházíte se, nachází/nacházejí se",
-                "to pass/devolve": "připadnout, připadnu, připadneš, připadne, připadneme, připadnete, připadnou"
+                "to pass/devolve": "připadnout, připadnu, připadneš, připadne, připadneme, připadnete, připadnou",
+                "to fix, to correct (imperfect)": "opravovat, opravuji/opravuju , opravuješ, opravuje, opravujeme, opravujete, opravují/opravujou",
+                "to fix, to correct (perfect)": "opravit, opravím , opravíš , opraví , opravíme , opravíte , opraví",
+                "to promise": "slíbit, slíbím, slíbíš, slíbí, slíbíme, slíbíte, slíbí",
+                "to take part": "zúčastnit se, zúčastním se, zúčastníš se, zúčastní se, zúčastníme se, zúčastníte se, zúčastní se",
+                "to hope": "doufat, doufám, doufáš, doufá, doufáme, doufáte, doufají",
+                "to win": "zvítězit, zvítězím, zvítězíš, zvítězí, zvítězíme, zvítězíte, zvítězí",
+                "to excersise": "cvičit, cvičím, cvičíš, cvičí, cvičíme, cvičíte, cvičí",
+                "to move": "pohybovat se, pohybuji se, pohybuješ se, pohybuje se, pohybujeme se, pohybujete se, pohybují se",
+                "to make": "dělat, dělám, děláš, dělá, děláme, děláte, dělají",
+                "to play": "hrát, hraji/hraju, hraješ, hraje, hrajeme, hrajete, hrají/hrajou",
+                "to ski": "lyžovat, lyžuji / (hovorově) lyžuju, lyžuješ, lyžuje, lyžujeme, lyžujete, lyžují / (hovorově) lyžujou",
+                "to run": "běhat, běhám, běháš, běhá, běháme, běháte, běhají",
+                "to win (perfect)": "zvítězit, zvítězím, zvítězíš, zvítězí, zvítězíme, zvítězíte, zvítězí",
+                "to lose (perfect)": "prohrát, prohraji, prohraješ, prohraje, prohrajeme, prohrajete, prohrají",
+                "to beat (perfect)": "porazit, porazím, porazíš, porazí, porazíme, porazíte, porazí",
+                "to gain (perfect)": "získat, získám, získáš, získá, získáme, získáte, získají"
         },
         "difficult verbs": [
                 "to lead (future)",
@@ -154,7 +171,14 @@
                 "to blaze",
                 "be situated",
                 "to change (perfect)",
-                "to read"
+                "to read",
+                "to fix, to correct (imperfect)",
+                "to fix, to correct (perfect)",
+                "to pass/devolve",
+                "to send",
+                "to wait",
+                "to beat (perfect)",
+                "to gain (perfect)"
         ],
         "past verbs": {
                 "to go": "šel, šla, šlo, šli, šly, šla",
