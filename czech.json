@@ -123,7 +123,14 @@
                 "to win (perfect)": "zvítězit, zvítězím, zvítězíš, zvítězí, zvítězíme, zvítězíte, zvítězí",
                 "to lose (perfect)": "prohrát, prohraji, prohraješ, prohraje, prohrajeme, prohrajete, prohrají",
                 "to beat (perfect)": "porazit, porazím, porazíš, porazí, porazíme, porazíte, porazí",
-                "to gain (perfect)": "získat, získám, získáš, získá, získáme, získáte, získají"
+                "to gain (perfect)": "získat, získám, získáš, získá, získáme, získáte, získají",
+                "to decide (perfect)": "rozhodnout se, rozhodnu se, rozhodneš se, rozhodne se, rozhodneme se, rozhodnete se, rozhodnou se",
+                "to keep/maintain (imperfect)": "udržet, udržím, udržíš, udrží, udržíme, udržíte, udrží",
+                "to snow (imperfect)": "sněžit, sněžím, sněžíš, sněží, sněžíme, sněžíte, sněží",
+                "to take part (perfect)": "zúčastnit se, zúčastním se, zúčastníš se, zúčastní se, zúčastníme se, zúčastníte se, zúčastní se",
+                "to become (perfect)": "stát se, stanu se, staneš se, stane se, staneme se, stanete se, stanou se",
+                "to feel (imperfect)": "cítit, cítím, cítíš, cítí, cítíme, cítíte, cítí",
+                "to give (perfective)": "dát, dám, dáš, dá, dáme, dáte, dají"
         },
         "difficult verbs": [
                 "to lead (future)",
@@ -178,7 +185,15 @@
                 "to send",
                 "to wait",
                 "to beat (perfect)",
-                "to gain (perfect)"
+                "to gain (perfect)",
+                "to bring",
+                "to lose (perfect)",
+                "to walk",
+                "to snow (imperfect)",
+                "to swim (imperfect)",
+                "to win",
+                "to decide (perfect)",
+                "to play"
         ],
         "past verbs": {
                 "to go": "šel, šla, šlo, šli, šly, šla",
